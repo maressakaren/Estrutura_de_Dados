@@ -1,0 +1,25 @@
+Aluna: Maressa Karen Henrique da Silva 
+Matrícula: 20182BSI0140
+
+
+Segue abaixo, instruções para a execução do programa Torre de Hanoi.
+
+
+Para gerar o arquivo executável da Torre de Hanoi, utilize o seguinte comando:
+gcc -Wall -pedantic -o hanoi.exe main.c TADPilha.c elemento.c hanoi.c
+
+
+
+
+Para executar o programa sem impressões na tela, utilize o comando:
+./hanoi.exe n 		*Sendo o n o número de Discos.
+
+
+
+
+
+Para executar o programa com impressões na tela, utilize o comando:
+
+./hanoi.exe n -v 	*Sendo n o número de discos. 
+
+
